@@ -1,0 +1,25 @@
+group,auc,Error
+2,0.433855953,
+3,0.827382104,
+6,0.948890214,
+1,,Prediction count (36223) doesn't match label count (52000).
+10,0.854614179,
+16,0.878792712,
+18,,Prediction count (146832) doesn't match label count (52000).
+19,0.704599161,Notice ID col name
+21,,Prediction count (10000) doesn't match label count (52000).
+22,0.723297259,
+23,0.87170272,
+24,0.867866757,
+26,0.952856123,
+27,0.652313206,
+30,0.871548704,
+31,0.933814873,
+36,,No valid prediction column found.
+44,,Prediction count (24988) doesn't match label count (52000).
+50,0.866062723,
+52,0.502653846,
+54,0.74263931,
+58,,Prediction count (50957) doesn't match label count (52000).
+60,0.865826638,
+7,0.853172024,
